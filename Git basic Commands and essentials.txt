@@ -1,0 +1,24 @@
+git init // for initializing git in dir
+
+git status // for checking all files status in git dir
+
+git add .// for adding all files to stage for commit
+
+git commit -m "message" // for commiting all staged changes
+
+git remote add origin [url] // for adding remote origin
+
+git push origin [current branch] //for pushing all commited changes to remote
+
+git branch -d photos // delete local branch
+
+git push origin --delete photos // delete remote branch
+
+
+essentials
+
+https://github.com/i-salman/MvvmComposeCleanArchApp
+Phillips lackner
+https://github.com/mitchtabian/Dota-info
+mitch
+
