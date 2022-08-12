@@ -8,6 +8,8 @@ git commit -m "message" // for commiting all staged changes
 
 git remote add origin [url] // for adding remote origin
 
+git fetch --all //for getting latest info from remote
+
 git push origin [current branch] //for pushing all commited changes to remote
 
 git branch -d photos // delete local branch
