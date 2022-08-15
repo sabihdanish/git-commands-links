@@ -27,3 +27,6 @@ mitch
 
 Retrofit Kotlin
 https://github.com/velmurugan-murugesan/Android-Example/tree/master/RetrofitWithRecyclerviewKotlin/
+
+Retrofit Kotlin weather App
+https://www.c-sharpcorner.com/article/how-to-create-weather-app-using-retrofit-2-in-android/
