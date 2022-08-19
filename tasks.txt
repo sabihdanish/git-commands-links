@@ -4,5 +4,7 @@ https://github.com/velmurugan-murugesan/Android-Example/tree/master/RetrofitWith
 Retrofit Kotlin weather App
 https://www.c-sharpcorner.com/article/how-to-create-weather-app-using-retrofit-2-in-android/
 
+https://www.geeksforgeeks.org/dagger-hilt-in-android-with-example/
+
 hilt (Dependency Injection)
 View Model in Android (r&d)
